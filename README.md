@@ -33,16 +33,7 @@ Voici les outils et technologies avec lesquels je travaille au quotidien :
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
 
-### 📊 Mes Statistiques GitHub
-
-Ces statistiques se mettent à jour automatiquement :
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elouali-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouali-code&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 
 ---
 
