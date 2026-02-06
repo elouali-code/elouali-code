@@ -1,6 +1,6 @@
 ### 👋 Bonjour, je suis Abderrahman EL QUALI
 
-Ingénieur Data en devenir, passionné par la donnée massive et l'intelligence artificielle appliquée à l'industrie. Actuellement en **Stage de Fin d'Études (PFE)** à Toulouse, je me spécialise dans la construction d'architectures Big Data robustes et le déploiement de modèles prédictifs.
+Ingénieur Data en devenir, passionné par la donnée massive et l'intelligence artificielle appliquée à l'industrie. je me spécialise dans la construction d'architectures Big Data robustes et le déploiement de modèles prédictifs.
 
 Je transforme des données brutes en insights exploitables grâce à des processus **ETL/ELT** performants, une modélisation rigoureuse (Data Modeling) et une maîtrise des environnements Cloud.
 
