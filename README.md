@@ -1,4 +1,4 @@
-### 👋 Bonjour, je suis Abderrahman EL QUALI
+### Bonjour, je suis Abderrahman EL QUALI
 
 Ingénieur Data en devenir, passionné par la donnée massive et l'intelligence artificielle appliquée à l'industrie. je me spécialise dans la construction d'architectures Big Data robustes et le déploiement de modèles prédictifs.
 
@@ -6,7 +6,7 @@ Je transforme des données brutes en insights exploitables grâce à des process
 
 ---
 
-### 🚀 Mon Écosystème Technique (Tech Stack)
+### Mon Écosystème Technique (Tech Stack)
 
 Voici les outils et technologies que je maîtrise et utilise au quotidien :
 
@@ -30,7 +30,7 @@ Voici les outils et technologies que je maîtrise et utilise au quotidien :
 
 ---
 
-### 🌱 En ce moment (Stage de Fin d'Études)
+### En ce moment (Stage de Fin d'Études)
 
 Je travaille actuellement sur un projet industriel critique axé sur :
 
@@ -38,11 +38,11 @@ Je travaille actuellement sur un projet industriel critique axé sur :
 * **Qualité & Modélisation :** Utilisation de **dbt** pour structurer les données et garantir leur fiabilité.
 * **Data Science Industrielle :** Mise en place de modèles de **Machine Learning** pour la maintenance prédictive (anticipation des pannes machines).
 
-🔭 **J'approfondis mes connaissances sur :** L'architecture **Lakehouse** et l'optimisation des jobs Spark (Tuning & Partitioning).
+ **J'approfondis mes connaissances sur :** L'architecture **Lakehouse** et l'optimisation des jobs Spark (Tuning & Partitioning).
 
 ---
 
-### 📫 Me Contacter
+### Me Contacter
 
 N'hésitez pas à me contacter pour discuter d'opportunités, de Big Data ou de projets innovants !
 
