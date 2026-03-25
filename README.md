@@ -30,7 +30,7 @@ Voici les outils et technologies que je maîtrise et utilise au quotidien :
 
 ---
 
-### En ce moment (Stage de Fin d'Études)
+### En ce moment 
 
 Je travaille actuellement sur un projet industriel critique axé sur :
 
